@@ -5,7 +5,7 @@
 <p align="center">
   Paper link:
   <br/>
-  [Currently on Review]
+  <a href="http://jurnal.iaii.or.id/index.php/RESTI/article/view/4215">Download on Resti</a>
 </p>
 
 <p align="center">
